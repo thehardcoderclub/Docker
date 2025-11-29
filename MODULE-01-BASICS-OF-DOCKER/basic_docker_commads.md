@@ -1,9 +1,4 @@
-Below is the full content rewritten into **clean, professional Markdown (.md)** format as a lecture continuation.
-
----
-
-````md
-# Module 2 – DevOps  
+ 
 ## Topic 2: Docker Basic Commands – Introduction & Usage
 
 ---
