@@ -265,11 +265,4 @@ This will help reinforce your understanding of the Docker CLI.
 
 Set up notifications, reminders, or calendar events to stay consistent with your learning path.
 
----
 
-```
-
----
-
-If you want, I can combine **both lectures** into a single `.md` file or convert the entire content into a **professional PDF** or **PowerPoint slides**.
-```
